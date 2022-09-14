@@ -41,11 +41,12 @@ Both manual feature elimination and RFE approach tried and below are the conclus
 
 
 ## Technologies Used
-- pandas
-- matplotlib
-- seaborn
-- sklearn
-- statsmodel
+- python ver 3.9.12
+- pandas ver 1.4.2
+- matplotlib ver 3.5.1
+- seaborn ver 0.11.2
+- sklearn ver 1.0.2
+- statsmodel 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
